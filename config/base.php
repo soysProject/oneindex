@@ -7,7 +7,7 @@
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
   'root_path' => '',
-  'show' =>
+  'show' => 
   array (
     'stream' => 
     array (
@@ -101,4 +101,7 @@
   'client_id' => '28755b55-ac6f-4594-822a-c3bcf28310cd',
   'redirect_uri' => 'https://oneindex.github.io/',
   'refresh_token' => 'OAQABAAAAAABeAFzDwllzTYGDLh_qYbH8yubI4ECot8VirHbLHDq_cB8pSd5meBGEt3VeJ4yE8IBg7DwBbYlIQm_W64XqK5a9GgdbZAgNvzuqnlU6tw_KRKS_1jjBAviy4RKqLTjsVPq705hLmAxaXKDQ7foP6ybFfVV-HnX51kT_b7gCgb9NlasKHmkM_j3FU2-itiEeq8iPi8GXWb7osXH6XSIXCb3XrTjLMtmVkmTwZAFoK0vzM6j6TLEMj-tQjRZIcj7bk3O0yfWkJpBGKoQX3ZhyBNyigo8s2OLbxHsET2W2jS3_ls938WBl7dglBhdUtBzUnMqnt2ZcfI2EnpXx3FqGO78MGQtpmPEYwrqGN4xI37CY-KUWT0HbypxJbbLWgNxQtd7pYLQHsbD2OXIw4F0RAqvwJ8qhr4gk18U_exgQStcbt1yVbNfDzUyhbL-Vuj7T7mfIDt9S-ZAtWJhghMxUzCbx3qZ4Roi2hH-DmbxIwdTWYp1c9S_N6cvaCTxznq-bZwN4xq3Xm3cyFVaIt3yelRhUFVQqZbYoNE0kFfLaR7vX-GuG6lL_BjYI8Ysdvj4mV_K5zF1inHaN5_0XlsMgPbs6hDyzdOcKymZeQrFVJpKM-Bw0lFeO3b1JFiYJD2bTmZ7h-sRzuABBKKOgRdUonA2k5QI2I2-gR7GYxfyHEcxsIUaYt8PgsDI9Qf2xXXNKMVQ6x7OnWMhLOgMtXR5CZRDb2CzEKfW7MbMZ-pFp12lvCE4-Y5jvMpgJTbqy1wKxScWozh_dIyfIKVg8IZYvhIUJO28Qwjw5iExUK43HAf5gy6UziQiIAvfRT8NSJ6RfRoJKf2oNeM6WKxWOG7eY51SBIAA',
+  'onedrive_hide' => 'default
+hidden',
+  'onedrive_hotlink' => '',
 );
