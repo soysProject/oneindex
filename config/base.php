@@ -20,6 +20,7 @@
       2 => 'jpeg',
       3 => 'png',
       4 => 'gif',
+      5 => 'webp',
     ),
     'video5' => 
     array (
