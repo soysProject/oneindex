@@ -1,6 +1,6 @@
 <?php return array (
   'site_name' => '愛麗絲小屋',
-  'password' => 'oneindex',
+  'password' => 'Alice.World',
   'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
