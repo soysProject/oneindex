@@ -1,11 +1,11 @@
 <?php return array (
-  'site_name' => 'AiliCili',
-  'password' => 'oneindex',
-  'style' => 'material',
+  'site_name' => '愛麗絲小屋',
+  'password' => 'Alice.World',
+  'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
-  'cache_expire_time' => 3600,
-  'cache_refresh_time' => 600,
+  'cache_expire_time' => 0,
+  'cache_refresh_time' => 0,
   'root_path' => '',
   'show' => 
   array (
@@ -30,7 +30,6 @@
     ),
     'video' => 
     array (
-      0 => '',
     ),
     'video2' => 
     array (
@@ -102,12 +101,11 @@
       6 => 'svg',
     ),
   ),
-  'client_secret' => 'psyPUWD73:uwzwQZH678#}_',
-  'client_id' => 'd503b57b-73e2-4cb8-9ed1-af871b9908fe',
+  'client_secret' => 'ohDMNQYF31:[ipfloT640-=',
+  'client_id' => '28755b55-ac6f-4594-822a-c3bcf28310cd',
   'redirect_uri' => 'https://oneindex.github.io/',
-  'refresh_token' => 'OAQABAAAAAAAm-06blBE1TpVMil8KPQ41s1Oovpp7nD144kgnUpgQoTBC8T6Q_ganKZgyW-nGLR_zye_PNcdxdahHB_31fKaqC2FHQZytjHfJkZLeqt46eODWO1yh30jaJtnyO4F6q-kREJa5yZcS-rM33uLsku5pdIj6BPOcwPaFabS6Yri6Kw3D3WlOCgxAATWZSI_CWQGgJd2EUNQiUq63Ctr4Fv5c3M9AUjUoLWEeEZXaEXGi4J_g7tufvQs5q9oVmR-8hLYDzSkDprQ_38RzX-9IME4a8JuVBcL1Lf-1OE2p3hbje_jFy5-ab8mX7IhdMpI6XSn57u48IctEKRWvh2a80NHXniZnkh4x_pw8pbmrOTHTGSjB26ne8vpQlrUVWoPri6DFQy3eOFpAO4_t1eTxbBPmFPfUYI7LLHHLbi5PF7gVI6qPWTV5hdMCbqFYu2DAu5IwKgRwvPvj8pK96wmhGuxGGD3S_GU0wsi7sPgYxdrw1Zv7am3b3qwrkfFruGYe2AMwl6ylHT2MpxJ4fPkezZmbcCbSemiJUcl9dIxohxd3xXQNITMyTFAh4rP8gEk_dFmRKSAGgSU17cLx-QISk72vzWyEllPEsKuV9O6FViM9Vw8tnYOUBmC5boepWGkrIfVLT6U3REX75O-H5GZXg89Z2ruBHXs-DWT7DtTj_9m8qi0JrPa4qfAs6ziZCPRQgsT7uAIK3C8na222XMhqa-Zz1FB1DViOeEMk97ZwH4oKe93Gw_pl7_wG4OMxSdR-o9MwJ0DSFDo3sY28GaIeRdwUeq-nsJoQ7puZKFKpKz1V_WkS29tG2sj2Uzu7ztjWl6PM6hla1bmtuhHO4Accvge8IAA',
-  'onedrive_hide' => 'hidden
-default
-隐藏',
+  'refresh_token' => 'OAQABAAAAAABeAFzDwllzTYGDLh_qYbH8yubI4ECot8VirHbLHDq_cB8pSd5meBGEt3VeJ4yE8IBg7DwBbYlIQm_W64XqK5a9GgdbZAgNvzuqnlU6tw_KRKS_1jjBAviy4RKqLTjsVPq705hLmAxaXKDQ7foP6ybFfVV-HnX51kT_b7gCgb9NlasKHmkM_j3FU2-itiEeq8iPi8GXWb7osXH6XSIXCb3XrTjLMtmVkmTwZAFoK0vzM6j6TLEMj-tQjRZIcj7bk3O0yfWkJpBGKoQX3ZhyBNyigo8s2OLbxHsET2W2jS3_ls938WBl7dglBhdUtBzUnMqnt2ZcfI2EnpXx3FqGO78MGQtpmPEYwrqGN4xI37CY-KUWT0HbypxJbbLWgNxQtd7pYLQHsbD2OXIw4F0RAqvwJ8qhr4gk18U_exgQStcbt1yVbNfDzUyhbL-Vuj7T7mfIDt9S-ZAtWJhghMxUzCbx3qZ4Roi2hH-DmbxIwdTWYp1c9S_N6cvaCTxznq-bZwN4xq3Xm3cyFVaIt3yelRhUFVQqZbYoNE0kFfLaR7vX-GuG6lL_BjYI8Ysdvj4mV_K5zF1inHaN5_0XlsMgPbs6hDyzdOcKymZeQrFVJpKM-Bw0lFeO3b1JFiYJD2bTmZ7h-sRzuABBKKOgRdUonA2k5QI2I2-gR7GYxfyHEcxsIUaYt8PgsDI9Qf2xXXNKMVQ6x7OnWMhLOgMtXR5CZRDb2CzEKfW7MbMZ-pFp12lvCE4-Y5jvMpgJTbqy1wKxScWozh_dIyfIKVg8IZYvhIUJO28Qwjw5iExUK43HAf5gy6UziQiIAvfRT8NSJ6RfRoJKf2oNeM6WKxWOG7eY51SBIAA',
+  'onedrive_hide' => 'default
+hidden',
   'onedrive_hotlink' => '',
 );
